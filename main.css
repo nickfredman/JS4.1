@@ -1,0 +1,14 @@
+div {
+  width: 200px;
+  height: 40px;
+  background: lightblue;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+p {
+  text-align: center;
+  line-height: 40px;
+  margin: 0;
+}
